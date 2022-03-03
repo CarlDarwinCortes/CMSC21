@@ -2,10 +2,10 @@
 
 int main(void)
 {
-   int i, j;      //Declaring i & j as an integer variable
-   float x, y;    //Declaring x & y as a float variable
+   int i, j;      //Declaring i & j as an integer variable.
+   float x, y;    //Declaring x & y as a float variable.
 
-   //Assigning integer and float(f) values to variables
+   //Assigning integer and float(f) values to variables.
    i = 10;
    j = 20;
    x = 43.2892f;  
